@@ -6,3 +6,7 @@ I made this project using Java programming language. In this project, an admin u
 3. Input patient info.
 4. Recommend a doctor according to the patient.
 5. Delete patient info.
+
+Project Members:
+1. QM Asif Tanjim       NSU ID: 2211402042
+2. Nowren Mahjabin Khan NSU ID: 2211129642
