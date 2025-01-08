@@ -8,5 +8,7 @@ I made this project using Java programming language. In this project, an admin u
 5. Delete patient info.
 
 Project Members:
-1. QM Asif Tanjim       NSU ID: 2211402042
-2. Nowren Mahjabin Khan NSU ID: 2211129642
+1. QM Asif Tanjim         NSU ID: 2211402042
+2. Nowren Mahjabin Khan   NSU ID: 2211129642
+3. S.M. Kaysar Hamid      NSU ID: 2211497042
+4. Md. Sadman Bin Murtoza NSU ID: 2232901642
